@@ -12,17 +12,23 @@ Search engines for [qBittorrent](https://www.qbittorrent.org/):
 - KickAss torrent
 - MagnetDL
 - MejorTorrent
+- Nyaa.si
+- OxTorrent
 - RockBox
+- Rutor
 - Snowfl
+- SubTorrents
+- Tokyo Toshokan
 - TorrentFunk
 - TorrentProject
+- UnionDHT
 - YourBittorrent
 - Yts.am
 
 
 ## Notes
 
-If the `Download` button doesn't work you try to browse the website by using the `Open description page` option.
+If the `Download` button doesn't work you can try to browse the website using the `Open description page` option instead.
 
 
 ## Installation
