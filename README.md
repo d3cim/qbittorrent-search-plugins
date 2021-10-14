@@ -2,22 +2,22 @@
 
 Search engines for [qBittorrent](https://www.qbittorrent.org/):
 
-- AcademicTorrents
-- bt.etree
+- Academic Torrents
 - bt4g
+- bt.etree.org
 - BTmulu
 - ETTV
 - GloTorrents
 - Il Corsaro Nero
-- KickAss torrent
+- Kickass Torrent
 - MagnetDL
-- MejorTorrent
+- Mejor Torrent
 - Nyaa.si
 - OxTorrent
 - RockBox
 - Rutor
 - Snowfl
-- SubTorrents
+- Sub Torrents
 - Tokyo Toshokan
 - TorrentFunk
 - TorrentProject
