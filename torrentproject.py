@@ -1,5 +1,5 @@
 #VERSION: 1.2
-#AUTHORS: quindecim, mauricci
+#AUTHORS: d3cim, mauricci
 
 from helpers import retrieve_url
 from helpers import download_file, retrieve_url
